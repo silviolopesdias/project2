@@ -1,6 +1,8 @@
 # project2
 
 
+
+
 <a href="https://www.instagram.com/silviolopesdias/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 
@@ -13,23 +15,27 @@
 
 
 
-<img src="./project2.png" alt=" logo"> <br>
+<img src="./project2.png" alt=" login img"> <br>
 
 
 > Este projeto teve por objetivo colocar em pratica novas habilidades no HTML e CSS.
 
 ### Ajustes e melhorias
 
-Este projeto se trata de um acesso ao app para mobil.
+O projeto apresenta a tela de abertura de um app.
 
-- [] Adicionar novas melhorias de acordo com o aprendizado.
+- [x] Adicionar novas melhorias de acordo com o aprendizado.
 
 
 
 ## 🤝 Colaboradores
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
         <img src="silvio.JPG" width="100px;" alt="Foto do Silvio no GitHub"/><br>
         <sub>
           <b> Silvio Lopes</b>
@@ -42,4 +48,5 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:O projeto 
 
 
 
-[⬆ Voltar ao topo](#Login)<br>
+[⬆ Voltar ao topo](#atro)<br>
+
